@@ -1,0 +1,11 @@
+#!/bin/bash
+PREFIX = /opt/cluster_gateway
+
+case "$1" in
+  start)
+    
+    ;;
+  stop)
+    
+    ;;
+esac
