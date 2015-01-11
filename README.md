@@ -1,2 +1,2 @@
 # ClusterGateway
-![Architecture](http://codepad.viper-7.com/clustercontrol.svg)
+![Architecture](https://raw.githubusercontent.com/Viper-7/ClusterGateway/master/clustercontrol.svg)
